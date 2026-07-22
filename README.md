@@ -1,4 +1,4 @@
-# Hi, I'm Braulio Almonte 👋
+# Hi, I'm Braulio Almonte 👾
 
 Software engineer with experience teaching software development at the high school level and coaching students for national coding competitions.
 
@@ -13,7 +13,7 @@ Software engineer with experience teaching software development at the high scho
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img width="20" height="20" alt="Flet" src="https://github.com/user-attachments/assets/b7e72320-07df-4541-a898-cda439ac01b7" />
+<img width="30" height="30" alt="Flet" src="https://github.com/user-attachments/assets/b7e72320-07df-4541-a898-cda439ac01b7" />
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
