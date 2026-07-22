@@ -13,7 +13,7 @@ Software engineer with experience teaching software development at the high scho
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img width="50" height="50" alt="Flet" src="https://github.com/user-attachments/assets/b7e72320-07df-4541-a898-cda439ac01b7" />
+<img width="20" height="20" alt="Flet" src="https://github.com/user-attachments/assets/b7e72320-07df-4541-a898-cda439ac01b7" />
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
@@ -24,6 +24,7 @@ Software engineer with experience teaching software development at the high scho
 
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
