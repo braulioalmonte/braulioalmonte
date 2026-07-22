@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Braulio Almonte 👋
 
-<!--
-**braulioalmonte/braulioalmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with experience teaching software development at the high school level and coaching students for national coding competitions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software engineer focused on practical, reliable application development.
+- Former high school software development teacher.
+- Coach for students competing in national coding competitions.
+- Confident working with databases and front-end desktop application projects.
+
+## Tech Stack
+
+### Languages & Frameworks
+- Python
+- Flet for multiplatform front end
+- FastAPI for backend development
+- C#
+- Windows Forms
+- SQL
+
+### Tools
+- VS Code
+- Figma for prototyping
+- Excalidraw for wireframing
+- Microsoft SQL Server
+- MySQL
+- SQLite
+
+## Certifications
+
+- Pearson ITS-201: Databases
+- Pearson ITS-303: Python
+
+## Focus Areas
+
+- Database design and development
+- Desktop application development
+- Backend API development
+- Rapid prototyping and product planning
+
+## What I Value
+
+- Clear software architecture
+- Practical solutions that are easy to maintain
+- Teaching, mentorship, and technical growth
+- Building tools that solve real problems
+
+## Connect Through My Work
+
+This profile highlights projects related to Python, desktop apps, APIs, databases, and software education.
