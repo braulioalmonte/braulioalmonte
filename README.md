@@ -12,7 +12,7 @@ Software engineer with experience teaching software development at the high scho
 ## Tech Stack
 
 ### Languages & Frameworks
-- Python
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - Flet for multiplatform front end
 - FastAPI for backend development
 - C#
