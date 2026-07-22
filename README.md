@@ -3,7 +3,6 @@
 Software engineer with experience teaching software development at the high school level and coaching students for national coding competitions.
 
 ## About Me
-
 - Software engineer focused on practical, reliable application development.
 - Former high school software development teacher.
 - Coach for students competing in national coding competitions.
@@ -22,6 +21,12 @@ Software engineer with experience teaching software development at the high scho
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### Web Dev
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -30,24 +35,20 @@ Software engineer with experience teaching software development at the high scho
 
 
 ## Certifications
-
 - Pearson ITS-201: Databases
 - Pearson ITS-303: Python
 
 ## Focus Areas
-
 - Database design and development
 - Desktop application development
 - Backend API development
 - Rapid prototyping and product planning
 
 ## What I Value
-
 - Clear software architecture
 - Practical solutions that are easy to maintain
 - Teaching, mentorship, and technical growth
 - Building tools that solve real problems
 
 ## Connect Through My Work
-
 This profile highlights projects related to Python, desktop apps, APIs, databases, and software education.
